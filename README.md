@@ -1,4 +1,4 @@
 import random
-random_number = random.randint(3, 100)
+random_number = random.randint(1, 99)
 print(f"Случайное число: {random_number}")
 )
